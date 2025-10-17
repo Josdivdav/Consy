@@ -1,0 +1,5 @@
+# Ignore a specific file
+service-key.json
+
+# Ignore a folder
+node_modules/
